@@ -55,6 +55,7 @@
 #  ASUS Strix FX502VM/GL502VM (per benspoonder)
 #  ASUS X53E (per REvandenBerg)
 #  ASUS UX430 (per starcentral)
+#  ASUS Q504UAK (per nasabeau79468)
 # ...
 #  and many others
 
